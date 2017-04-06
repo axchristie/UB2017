@@ -1,0 +1,63 @@
+.box{
+	width: 300px;
+	height: 400px;
+	float: left;
+	border-radius: 50px;
+	margin: 0px 30px 50px 0px;
+}
+
+.box:hover{
+	cursor: pointer;
+	box-shadow: 5px 5px 10px 2px black;
+}
+
+.container{
+	margin-top: 10%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.box-title{
+	text-align: center;
+	font-size: 2em;
+	color: white;
+	vertical-align: bottom;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+}
+
+.box-unit{
+	text-align: center;
+	font-size: 2em;
+	color: white;
+	vertical-align: bottom;
+	font-variant: small-caps;
+	font-family: 'Raleway', sans-serif;
+}
+
+#unit-1{
+	background-image: url(assets/toureiffel2.png);
+}
+
+#unit-2{
+	background-image: url(assets/mudbox3.png);
+}
+
+#unit-3{
+	background-image: url(assets/thinker3.png);
+}
+
+h1,h2{
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+}
+
+a, a:visited{
+	color: navy;
+	text-decoration: none;
+}
+
+a:hover{
+	color: teal;
+	cursor: pointer;	
+}
