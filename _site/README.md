@@ -1,2 +1,2 @@
-# IDHMC
-Materials for workshop on Historical Maps &amp; 3D Mapping, delivered at the IDHMC Digital Mapping Workshop (April 18, 2017).
+# UB2017
+Materials for 3D Mapping workshop, delivered at the Digital Composition Lab, University at Buffalo (October 3, 2017).
